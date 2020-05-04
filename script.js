@@ -40,13 +40,13 @@ $("#4b").click(function(){
 
 }); 
 
-$("#0a").click(function(){
-	$("#1b, #2a, #2b, #3a, #4a, #4b, #5a, #5b, #5c,  #5d, .5e, #6a, .3b, .3c, .3d, .3e, .3f, .3g").hide();
+// $("#0a").click(function(){
+//	$("#1b, #2a, #2b, #3a, #4a, #4b, #5a, #5b, #5c,  #5d, .5e, #6a, .3b, .3c, .3d, .3e, .3f, .3g").hide();
 
-});
+// }); 
 
 var flag1=0;
-$("#1c").click(function(){
+$("#0a").click(function(){
     if (flag1==0) {
       $("#6a").show();
         flag1=1;
