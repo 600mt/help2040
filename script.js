@@ -35,6 +35,7 @@ $("#4a").click(function(){
 
 $("#4b").click(function(){
 	$("#5a, #5b, #5c, #5d, #5e").show();
+    $("#v1, #v2, #v3, #v4, #v5, #v6, #v7, #v8, #v9, #v10, #v11, #v12, #v13, #v14, #v15").hide();
 
 });
 
